@@ -24,7 +24,7 @@ Este proyecto utiliza procesamiento de imagen basado en el espacio de color **HS
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/yellow-object-detector.git
+git clone https://github.com/j4xj4x/yellow-object-detector.git
 cd yellow-object-detector
 ```
 
